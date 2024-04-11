@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import { useState } from 'react'
 import { PulseLoader } from 'react-spinners'
 import { firestore } from '../../firebase.config'
 import { ToastContainer, toast } from 'react-toastify';
