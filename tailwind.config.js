@@ -5,6 +5,9 @@ export default {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
+    fontFamily: {
+      'pixel': ['Pixelify Sans']
+    },
     extend: {},
   },
   plugins: [],
